@@ -52,6 +52,8 @@ h2{
     background-color: rgb(25,33,41);
 }
 .nav-bar a{
+    text-decoration: none;
+    font-size: 2em;
     color:white
 }
 .head{
@@ -95,4 +97,49 @@ h2{
 }
 .service-box-img{
     width: 125px;
+}
+.section-text{
+    font-size: 1.9em;
+    text-align: center;
+    color:white
+}
+.section3{
+    background-color: rgb(25,33,41);
+}
+
+.team-member{
+    font-size: 1.5em;
+    font-weight: 700;
+    color:white
+}
+#team img{
+    width: 250px;
+    height: 180px;
+}
+.team-img{
+    width: 250px;
+    height: 180px;
+}
+.ending{
+    text-align: center;
+    font-size: 1.9em;
+}
+.address{
+    font-size: 0.8em;
+    font-style: normal;
+    }
+.social-media{
+    text-decoration: none;
+    color: rgb(67,163,230);
+}
+.ending{
+    background-color: rgb(25,33,41);
+}
+.ending a{
+    text-decoration: none;
+    color:rgb(67,163,230);
+    list-style: none;
+}
+.section4{
+    color:white
 }
